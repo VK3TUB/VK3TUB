@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VK3TUB
-- 👀 I’m interested in Amateur Radio 
-- 🌱 I’m currently learning si47xx, si53xx, arduino coding for Amateur radio and radio related gear
-- 💞️ I’m looking for help on how to get started in radio coding
+- 👋 Hi, Nodz
+- 👀 I’m interested in DIY synth and modular synths
+- 🌱 I’m currently learning arduino coding and midi interfacing for DIY synth and modular synths
+- 💞️ I’m looking for help on how to get started in synth coding
 - 📫 How to reach me github.com/vk3tub
 
 <!---
